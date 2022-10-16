@@ -1,0 +1,18 @@
+dataset link : https://www.kaggle.com/datasets/whenamancodes/world-university-ranking-2022-2023
+
+dataset info
+																								The Center for World University Rankings (CWUR) publishes the only academic ranking of global universities that assesses the quality of education, alumni employment, quality of faculty, and research performance without relying on surveys and university data submissions.
+
+CWUR uses seven objective and robust indicators grouped into four areas to rank the world’s universities:
+
+Education: based on the academic success of a university’s alumni, and measured by the number of a university's alumni who have won prestigious academic distinctions relative to the university's size (25%)
+
+Employability: based on the professional success of a university’s alumni, and measured by the number of a university's alumni who have held top positions at major companies relative to the university's size (25%)
+
+Faculty: measured by the number of faculty members who have won prestigious academic distinctions (10%)
+
+Research:
+i) Research Output: measured by the total number of research papers (10%)
+ii) High-Quality Publications: measured by the number of research papers appearing in top-tier journals (10%)
+iii) Influence: measured by the number of research papers appearing in highly-influential journals (10%)
+iv) Citations: measured by the number of highly-cited research papers (10%)				
