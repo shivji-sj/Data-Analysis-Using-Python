@@ -1,0 +1,19 @@
+About Dataset
+Content
+
+This dataset is composed of more than 3400 anime series from 1990 to June 20, 2022. The data were obtained from the website animeflv.net. A well known website for anime series viewing.
+
+About the columns and data
+
+title-> Anime name
+description-> Anime synopsis
+year-> Release year
+type-> Anime Category: Movie (Pelicula), OVA, Anime
+rate_start-> Number of voting stars
+votes-> Total number of votes
+status-> Status of the series: On air (En emisión), completed (Finalizado), coming soon (Proximamente)
+followers-> Number of people following the series
+episodes-> Number of episodes in the series
+genders-> Genres to which the series belongs
+url_anime-> URL of the official anime website
+image-> URL of the anime image
